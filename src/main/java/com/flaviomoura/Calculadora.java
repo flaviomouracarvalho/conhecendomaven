@@ -24,7 +24,7 @@ public class Calculadora {
         return parcela1 * parcela2;
     }
 
-    public int divisao(int parcela1, int parcela2){
+    public float divisao(int parcela1, int parcela2){
         return parcela1 / parcela2;
     }
 }
